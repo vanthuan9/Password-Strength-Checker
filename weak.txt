@@ -7,4 +7,4 @@ qwerty
 asvk
 anveAKF
 111111
-phone
+pr2_skaf
