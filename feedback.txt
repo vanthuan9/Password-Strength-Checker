@@ -1,0 +1,8 @@
+Created by David Sonul Choi and Thuan Ngyuen
+
+1. How long did you spend on this assignment?
+Around 4 hours.
+
+2. Any comments or feedback? Things you found interesting? Things you found challenging? Things you found boring?
+We really enjoyed the assignment.
+It was really interesting reading out sets of requirement that different protocols use to determine the strength of a password.
